@@ -1,3 +1,10 @@
+# Election results audit data to gather:
+    # Total number of votes cast
+    # A complete list of candidates who receive votes
+    # Total number of votes each candidate recceived
+    # Percent of votes each candidate won
+    # Winner of the election
+
 import csv
 import os
 from tkinter import N
@@ -107,8 +114,4 @@ with open(file_to_save, "w") as txt_file:
 
 
 
-    # Total number of votes cast
-    # A complete list of candidates who receive votes
-    # Total number of votes each candidate recceived
-    # Percent of votes each candidate won
-    # Winner of the election
+    
