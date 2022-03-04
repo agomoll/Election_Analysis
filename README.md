@@ -13,17 +13,17 @@ Software: Python 3.10.1, Visual Studio Code, 1.64.2
 The analysis of the election show that:
 1. There were 369,711 votes cast in the election
 2. The candidates were:
-  *Charles Casper Stockham
-  *Diana DeGette
-  *Raymon Anthony Doane
+  * Charles Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
 3. The percentage of total votes for each candidate: 
-  *Charles Casper Stockham: 23.0% of the total vote 
-  *Diana DeGette:           73.8% of the total vote 
-  *Raymon Anthony Doane:     3.1% of the total vote 
+  * Charles Casper Stockham: 23.0% of the total vote 
+  * Diana DeGette:           73.8% of the total vote 
+  * Raymon Anthony Doane:     3.1% of the total vote 
 4. The total votes per candidate:
-  *Charles Casper Stockham:  85,213 votes
-  *Diana DeGette recieved:  272,892 votes
-  *Raymon Anthony Doane:     11,606 votes
+  * Charles Casper Stockham:  85,213 votes
+  * Diana DeGette recieved:  272,892 votes
+  * Raymon Anthony Doane:     11,606 votes
 5. The winner of the election was:
-  *Diana DeGette who recieved 73.8% of the total vote with 272,892 votes
+  * Diana DeGette who recieved 73.8% of the total vote with 272,892 votes
 
